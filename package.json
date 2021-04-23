@@ -1,0 +1,9 @@
+{
+  "name": "BlockChain_study",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
