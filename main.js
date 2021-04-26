@@ -5,7 +5,7 @@ const ecLib = require('elliptic').ec
 //curve name
 const ec = new ecLib('secp256k1')
 
-
+//sss
 //block中
 //data
 //之前区块的哈希值
